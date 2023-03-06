@@ -1,0 +1,15 @@
+/Users/brandonherbison/workspace/csharp/place-names/bin/Debug/net7.0/place-names
+/Users/brandonherbison/workspace/csharp/place-names/bin/Debug/net7.0/place-names.deps.json
+/Users/brandonherbison/workspace/csharp/place-names/bin/Debug/net7.0/place-names.runtimeconfig.json
+/Users/brandonherbison/workspace/csharp/place-names/bin/Debug/net7.0/place-names.dll
+/Users/brandonherbison/workspace/csharp/place-names/bin/Debug/net7.0/place-names.pdb
+/Users/brandonherbison/workspace/csharp/place-names/obj/Debug/net7.0/place-names.csproj.AssemblyReference.cache
+/Users/brandonherbison/workspace/csharp/place-names/obj/Debug/net7.0/place-names.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonherbison/workspace/csharp/place-names/obj/Debug/net7.0/place-names.AssemblyInfoInputs.cache
+/Users/brandonherbison/workspace/csharp/place-names/obj/Debug/net7.0/place-names.AssemblyInfo.cs
+/Users/brandonherbison/workspace/csharp/place-names/obj/Debug/net7.0/place-names.csproj.CoreCompileInputs.cache
+/Users/brandonherbison/workspace/csharp/place-names/obj/Debug/net7.0/place-names.dll
+/Users/brandonherbison/workspace/csharp/place-names/obj/Debug/net7.0/refint/place-names.dll
+/Users/brandonherbison/workspace/csharp/place-names/obj/Debug/net7.0/place-names.pdb
+/Users/brandonherbison/workspace/csharp/place-names/obj/Debug/net7.0/place-names.genruntimeconfig.cache
+/Users/brandonherbison/workspace/csharp/place-names/obj/Debug/net7.0/ref/place-names.dll
